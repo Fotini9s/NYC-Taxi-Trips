@@ -1,3 +1,8 @@
+# Create payment_type_label column
+# This step adds readable labels to the numeric payment_type values
+# Relevant columns:
+# payment_type, payment_type_label
+
 CREATE OR REPLACE TABLE `wagon-bootcamp-497711.nyc_taxi_trips.nyc_taxi_trips_clean_data` AS
 SELECT
   *,
