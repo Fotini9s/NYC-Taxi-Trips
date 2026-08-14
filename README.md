@@ -1,5 +1,5 @@
 # NYC-Taxi-Trips
-# NYC Taxi Trips — Fare, Duration & Tipping Behaviour
+# NYC Taxi Trips – Fare, Duration & Tipping Behaviour
 
 ## Project Overview
 SQL analysis of NYC taxi trip data to explore fare patterns, demand by hour, payment types, and tipping behaviour.
@@ -24,3 +24,6 @@ SQL (CASE WHEN, GROUP BY, ORDER BY, aggregation), data cleaning, exploratory ana
 
 ## Notes
 Cash tips are unreliable → tipping analysis uses credit card trips only.
+
+## Summary
+This project demonstrates practical SQL cleaning, KPI analysis, and tipping‑behaviour insights using a real NYC taxi dataset.
